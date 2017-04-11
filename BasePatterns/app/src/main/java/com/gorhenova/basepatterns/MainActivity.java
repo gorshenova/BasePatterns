@@ -1,4 +1,4 @@
-package com.gorhenova.basepatterns.creational;
+package com.gorhenova.basepatterns;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

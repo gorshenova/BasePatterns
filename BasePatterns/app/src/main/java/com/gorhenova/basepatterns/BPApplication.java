@@ -1,4 +1,4 @@
-package com.gorhenova.basepatterns.creational;
+package com.gorhenova.basepatterns;
 
 import android.app.Application;
 import android.content.Context;

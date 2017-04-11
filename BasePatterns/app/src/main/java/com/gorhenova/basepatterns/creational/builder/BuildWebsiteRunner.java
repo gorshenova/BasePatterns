@@ -3,7 +3,7 @@ package com.gorhenova.basepatterns.creational.builder;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.gorhenova.basepatterns.creational.BPApplication;
+import com.gorhenova.basepatterns.BPApplication;
 
 /**
  * Created by Gorshenova Katherina on 10.04.2017.
